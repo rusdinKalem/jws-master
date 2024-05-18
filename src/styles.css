@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face { 
+    font-family: "Abel"; 
+    src: url("/fonts/Abel-Regular.ttf"); 
+} 
+@font-face { 
+    font-family: "Allura"; 
+    src: url("/fonts/Allura-Regular.ttf"); 
+}
+@font-face { 
+    font-family: "Audiowide"; 
+    src: url("/fonts/Audiowide-Regular.ttf"); 
+}
+@font-face { 
+    font-family: "Birthstone Bounce"; 
+    src: url("/fonts/BirthstoneBounce-Regular.ttf"); 
+}
+@font-face { 
+    font-family: "Bonheur Royale"; 
+    src: url("/fonts/BonheurRoyale-Regular.ttf"); 
+}
+@font-face { 
+    font-family: "Bruno Ace"; 
+    src: url("/fonts/BrunoAce-Regular.ttf"); 
+}
+@font-face { 
+    font-family: "Lateef"; 
+    src: url("/fonts/Lateef-Regular.ttf"); 
+}
+@font-face { 
+    font-family: "Monoton"; 
+    src: url("/fonts/Monoton-Regular.ttf");
+}
+@font-face { 
+    font-family: "Madimi One"; 
+    src: url("/fonts/MadimiOne-Regular.ttf");
+}
+@font-face { 
+    font-family: "Seven Segment"; 
+    src: url("/fonts/Seven-Segment.ttf"); 
+}
+@font-face { 
+    font-family: "Qwitcher Grypen"; 
+    src: url("/fonts/QwitcherGrypen-Regular.ttf"); 
+}
+@font-face { 
+    font-family: "Vast Shadow"; 
+    src: url("/fonts/VastShadow-Regular.ttf"); 
+}
